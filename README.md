@@ -16,7 +16,7 @@ I enjoy building systems from scratch and learning by turning ideas into working
 
 ## 🎥 A Little About Me
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=TivAwezqug4">
+  <a href="https://www.youtube.com/watch?v=TivAw7676zqug4">
     <img src="https://img.youtube.com/vi/TivAwezqug4sagar/maxresdefault.jpg" width="500">
   </a>
 </p>
