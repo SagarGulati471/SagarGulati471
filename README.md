@@ -1,38 +1,47 @@
 ## Hey there! I'm Sagar Gulati.
 
-Software Engineer at Cisco
 
+#### Software Engineer at Cisco | Backend & Distributed Systems | Building Market Data & Quantitative Systems
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-fff?logo=linkedin&logoColor=0A66C2&style=flat-square)](https://www.linkedin.com/in/sagar-gulati-dev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-fff?logo=gmail&logoColor=D14836&style=flat-square)](mailto:contact.sagargulati@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-fff?logo=launchpad&logoColor=black&style=flat-square)](https://<link>/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-fff?logo=leetcode&logoColor=FFA116&style=flat-square)](https://leetcode.com/sagargulati471/)
 
+
+I'm a Software Engineer at Cisco with 4.5+ years of experience building backend systems, distributed services, and large-scale data platforms using Python and Go.
+
+I'm currently exploring quantitative engineering and trading infrastructure, with a particular interest in market data systems, low-latency systems, event-driven architecture, and financial technology.
+
+I enjoy building systems from scratch and learning by turning ideas into working projects.
+
+## 🎥 A Little About Me
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=TivAwezqug4">
+    <img src="https://img.youtube.com/vi/TivAwezqug4sagar/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
+
 <!--  Portfolio Featured on Once UI portal [Checkout](https://once-ui.com/hub/project/my-portfolio-1654#comments) -->
 
 
-### A little more about me...
+## 🐍 Me, In Python
 ```
 class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Sagar Gulati"
-        self.pronouns = "He/Him"
-        self.role = "Software Engineer"
-
-    def get_tech_stack(self):
-        self.technologies = ["Python", "GoLang"]
-        self.development = ["FastAPI", "", "SQL", "MongoDB", "PostreSQL"]
-        self.services = ["Docker", "Kubernetes"]
-
-    def get_accomplishments(self):
-        self.achieved = [
-            "Certified Devnet Associate",
-            "Certified Devnet Associate"
+        self.role = "Software Engineer @ Cisco"
+        self.languages = ["Python", "Go", "C++"]
+        self.interests = [
+            "Distributed Systems",
+            "Market Data",
+            "Trading Systems",
+            "Quantitative Engineering"
         ]
-        
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Thanks for stopping by! 👋")
 
 
 me = SoftwareEngineer()
@@ -40,6 +49,7 @@ me.say_hi()
 
 ```
 
+## 🚀 Projects & Experiments
 <br/>
 
 | 💻 **Technology/Topics**                                                                                                                           | 🚀 **Projects**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -55,20 +65,15 @@ me.say_hi()
 
 
 
-## Highlighted Projects
-
-| 🚀 Project            | 🌐 Live Link                                              |
-|----------------------|----------------------------------------------------------|
-| **Quant Data Pipeline**<br><sub>End to End Market Data pipeline </sub>         | [Quant Data Pipeline](https://github.com/SagarGulati471/Quant-Data-Pipeline) | 
-<!-- | **Portfolio Website**<br><sub>Personal site</sub>         | [dportfolio.vercel.app](https://my_portfolio.vercel.app) |
-| **Name**<br><sub>AI helper for coding interviews</sub>    | [<Name>.vercel.app](https://my-dbot.vercel.app/) |
-| **Name**<br><sub>Smart movie/series tracker</sub>            | [<Name>.vercel.app](https://watchem.vercel.app)    | -->
-
-
-
-## Currently Learning
+## 📚 Currently Learning
 
 - C++ memory model and multithreading
 - Linux internals and networking
 - Market microstructure
 - Benchmarking and latency analysis
+
+---
+
+## Thanks for stopping by! 👋
+
+Hope you find something interesting in my work. Feel free to explore the repositories and connect with me.
